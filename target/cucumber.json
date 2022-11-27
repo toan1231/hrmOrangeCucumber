@@ -1,0 +1,383 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-27T23:03:51.541Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1721471200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "hrmOrange login functionalities verification",
+        "description": "",
+        "id": ";hrmorange-login-functionalities-verification;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 134153400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2691081000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I login with incorrect Credentials\"\"\"abcd\"\"Username cannot be empty\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 34
+                },
+                {
+                  "val": "\"abcd\"",
+                  "offset": 36
+                },
+                {
+                  "val": "\"Username cannot be empty\"",
+                  "offset": 42
+                }
+              ],
+              "location": "HrmOrangeStep.i_login_with_incorrect_Credentials(String,String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@toan"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-27T23:03:56.153Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1000499300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "hrmOrange login functionalities verification",
+        "description": "",
+        "id": ";hrmorange-login-functionalities-verification;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 135671500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1761793200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I login with incorrect Credentials\"jfkdkfjkj\"\"\"\"Password cannot be empty\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"jfkdkfjkj\"",
+                  "offset": 34
+                },
+                {
+                  "val": "\"\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"Password cannot be empty\"",
+                  "offset": 47
+                }
+              ],
+              "location": "HrmOrangeStep.i_login_with_incorrect_Credentials(String,String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@toan"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-27T23:03:59.054Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1035225900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "hrmOrange login functionalities verification",
+        "description": "",
+        "id": ";hrmorange-login-functionalities-verification;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 155244800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10785970900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I login with incorrect Credentials\"dfjdjfk\"\"Bootcamp5#\"\"Invalid credentials\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"dfjdjfk\"",
+                  "offset": 34
+                },
+                {
+                  "val": "\"Bootcamp5#\"",
+                  "offset": 43
+                },
+                {
+                  "val": "\"Invalid credentials\"",
+                  "offset": 55
+                }
+              ],
+              "location": "HrmOrangeStep.i_login_with_incorrect_Credentials(String,String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@toan"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-27T23:04:11.032Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1014960500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "hrmOrange login functionalities verification",
+        "description": "",
+        "id": ";hrmorange-login-functionalities-verification;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 146374100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3356841200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I login with incorrect Credentials\"yoll-student\"\"jdjfjdfkj\"\"Invalid credentials\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"yoll-student\"",
+                  "offset": 34
+                },
+                {
+                  "val": "\"jdjfjdfkj\"",
+                  "offset": 48
+                },
+                {
+                  "val": "\"Invalid credentials\"",
+                  "offset": 59
+                }
+              ],
+              "location": "HrmOrangeStep.i_login_with_incorrect_Credentials(String,String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@toan"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-27T23:04:15.553Z",
+        "before": [
+          {
+            "result": {
+              "duration": 913191500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "hrmOrange login functionalities verification",
+        "description": "",
+        "id": ";hrmorange-login-functionalities-verification;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 139538600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6996036700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I login with incorrect Credentials\"kfjkdjfk\"\"jjwhewhnr\"\"Invalid credentials\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"kfjkdjfk\"",
+                  "offset": 34
+                },
+                {
+                  "val": "\"jjwhewhnr\"",
+                  "offset": 44
+                },
+                {
+                  "val": "\"Invalid credentials\"",
+                  "offset": 55
+                }
+              ],
+              "location": "HrmOrangeStep.i_login_with_incorrect_Credentials(String,String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@toan"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-27T23:04:23.603Z",
+        "before": [
+          {
+            "result": {
+              "duration": 836135100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "",
+        "description": "",
+        "id": ";",
+        "after": [
+          {
+            "result": {
+              "duration": 54025400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29343150300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I login with correct Credentials",
+            "match": {
+              "location": "HrmOrangeStep.i_login_with_correct_Credentials()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@toan"
+          }
+        ]
+      }
+    ],
+    "name": "",
+    "description": "",
+    "id": "",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/hrmOrange.feature",
+    "tags": []
+  }
+]
