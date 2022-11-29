@@ -29,8 +29,7 @@ public class HrmOrangeStep {
         driver.get(ConfigurationReader.getProperty("ui-config.properties","hrmOrange.url"));
         String username=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.username");
         String password=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.password");
-        loginPage.login(username,password);
-        int a=7;
+        loginPage.login(username,password);8int a=8;
         //ti bo cai nay di khong xao het
 
 
