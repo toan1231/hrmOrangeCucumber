@@ -30,7 +30,7 @@ public class HrmOrangeStep {
         String username=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.username");
         String password=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.password");
         loginPage.login(username,password);
-       //moi bo cai nay vao hrm
+
         //ti bo cai nay di khong xao het
 
 
