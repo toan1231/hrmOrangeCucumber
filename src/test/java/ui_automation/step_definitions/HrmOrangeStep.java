@@ -31,6 +31,7 @@ public class HrmOrangeStep {
         String password=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.password");
         loginPage.login(username,password);
         int a=6;
+        //ti bo cai nay di khong xao het
 
 
 
