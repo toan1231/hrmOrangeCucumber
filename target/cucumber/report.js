@@ -217,10 +217,3 @@ formatter.step({
 formatter.match({
   "location": "HrmOrangeStep.i_login_with_correct_Credentials()"
 });
-formatter.result({
-  "status": "passed"
-});
-formatter.after({
-  "status": "passed"
-});
-});

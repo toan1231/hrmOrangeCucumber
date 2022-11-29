@@ -16,6 +16,7 @@ public class HrmOrangeStep {
     LoginPage loginPage=new LoginPage();
 
 
+
     @Then("I login with incorrect Credentials{string}{string}{string}")
     public void i_login_with_incorrect_Credentials(String username, String password, String incorrectCredentials) throws InterruptedException {
         driver.get(ConfigurationReader.getProperty("ui-config.properties","hrmOrange.url"));
@@ -25,17 +26,12 @@ public class HrmOrangeStep {
         Assert.assertEquals("invalid credential not shown",incorrectCredentials,actualErrorText);
     }
     @Then("I login with correct Credentials")
-    public void i_login_with_correct_Credentials() {
+    public void i_login_with_correct_Credentials() throws InterruptedException {
         driver.get(ConfigurationReader.getProperty("ui-config.properties","hrmOrange.url"));
         String username=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.username");
         String password=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.password");
         loginPage.login(username,password);
-/////////////////
-        //ti bo cai nay di khong xao het
 
-
-
-        driver.close();
     }
 
 }
