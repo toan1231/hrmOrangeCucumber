@@ -2,10 +2,14 @@ package ui_automation.step_definitions;
 
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import ui_automation.pages.LoginPage;
 import ui_automation.utilities.ConfigurationReader;
 import ui_automation.utilities.Driver;
+import ui_automation.utilities.SelectHelper;
+import ui_automation.utilities.WaitHelper;
 
 public class HrmOrangeStep {
     WebDriver driver= Driver.getInstance().getDriver();
@@ -26,6 +30,10 @@ public class HrmOrangeStep {
         String username=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.username");
         String password=ConfigurationReader.getProperty("ui-config.properties","hrmOrange.password");
         loginPage.login(username,password);
+        int a=7;
+
+
+
         driver.close();
     }
 
