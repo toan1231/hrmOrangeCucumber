@@ -5,6 +5,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+import javax.swing.*;
 import java.util.NoSuchElementException;
 
 public class GenericHelper {
@@ -49,6 +50,7 @@ public class GenericHelper {
         boolean flag = Driver.getInstance().getDriver().findElements(locator).size() >= 1;
         oLog.info(flag);
         return flag;
+
     }
 
 

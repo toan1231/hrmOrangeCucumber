@@ -11,8 +11,7 @@ import org.junit.runner.RunWith;
         "json:target/cucumber.json"},
         features="src/test/resources/uiFeatures",
         glue="ui_automation.step_definitions",
-        tags="@toan",//remember to take off 1
-        dryRun =false
+        tags="@minh"//remember to take off 1
         //monochrome = true
 )
 

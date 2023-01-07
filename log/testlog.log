@@ -1034,3 +1034,892 @@ io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe shoul
 2022-11-29 12:41:52,052 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
 2022-11-29 12:41:53,969 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
 2022-11-29 12:41:53,969 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:22:25,486 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:22:25,508 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:22:28,405 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:22:28,411 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:22:30,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:22:30,100 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:22:32,041 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:22:32,048 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:22:34,218 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:22:34,223 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:22:36,097 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:22:36,102 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:25:57,374 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:25:57,388 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:25:59,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:25:59,409 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:01,221 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:01,226 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:03,089 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:03,095 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:05,209 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:05,214 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:07,096 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:07,100 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:38,437 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:38,455 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:41,340 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:41,346 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:43,321 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:43,326 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:45,211 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:45,217 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:47,745 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:47,753 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:26:50,162 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:26:50,169 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:27:14,056 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:27:14,078 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:27:16,614 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:27:16,620 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:27:18,509 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:27:18,517 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:27:20,491 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:27:20,499 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:27:22,870 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:27:22,875 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:27:24,776 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:27:24,782 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:28:43,800 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:28:43,817 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:28:45,777 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:28:45,782 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:28:47,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:28:47,426 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:28:49,289 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:28:49,294 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:28:51,469 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:28:51,473 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:28:53,361 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:28:53,364 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:31:14,959 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:31:14,982 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:31:17,086 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:31:17,093 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:31:18,770 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:31:18,774 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:31:20,670 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:31:20,675 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:31:22,825 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:31:22,830 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:31:24,737 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:31:24,741 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:38:26,787 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:38:26,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:38:29,140 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:38:29,156 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:38:30,863 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:38:30,863 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:38:32,720 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:38:32,728 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:38:34,864 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:38:34,864 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:44:31,369 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:44:31,384 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:46:20,654 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:46:20,670 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:49:36,561 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:49:36,577 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 16:58:25,921 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 16:58:25,936 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 17:10:12,256 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 17:10:12,273 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 17:11:41,070 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 17:11:41,086 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 17:13:09,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 17:13:09,033 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 17:13:29,123 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 17:13:29,139 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:05:18,001 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:05:18,025 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:05:26,443 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:05:26,458 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:07:00,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:07:00,095 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:07:05,653 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:07:05,665 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:08:46,490 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:08:46,507 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:10:15,785 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:10:15,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:10:21,977 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:10:21,986 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:11:06,195 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:11:06,227 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:11:12,436 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:11:12,445 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:12:32,894 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:12:32,912 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:13:27,159 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:13:27,176 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:17:02,368 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:17:02,384 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:17:11,748 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:17:11,778 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:17:32,299 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:17:32,315 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:17:37,301 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:17:37,311 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:18:37,344 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:18:37,360 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:18:42,044 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:18:42,060 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:25:56,144 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:25:56,163 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:26:01,867 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:26:01,873 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:27:02,918 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:27:02,936 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:27:08,059 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:27:08,069 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:28:09,481 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:28:09,499 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:28:14,580 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:28:14,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:28:45,325 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:28:45,325 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:29:20,552 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:29:20,562 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:29:56,374 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:29:56,377 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:30:01,958 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:30:01,958 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:32:14,961 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:32:14,987 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:32:21,227 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:32:21,240 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:33:07,942 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:33:07,942 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:33:17,977 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:33:17,985 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:34:13,648 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:34:13,656 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:34:32,958 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:34:32,966 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:35:04,065 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:35:04,075 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:35:52,701 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:35:52,701 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:36:17,282 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:36:17,308 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:36:54,945 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:36:54,953 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:38:08,519 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:38:08,536 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:38:13,751 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:38:13,761 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:40:41,828 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:40:41,828 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-29 21:41:38,433 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:41:38,450 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:42:00,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:42:00,063 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:42:06,005 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:42:06,008 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:48:13,355 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:48:13,362 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:27)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:174)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+2022-11-29 21:48:44,236 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-29 21:48:44,244 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:27)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:174)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+2022-11-29 21:49:36,957 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:49:36,973 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 21:49:42,941 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 21:49:42,954 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 22:19:14,143 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-29 22:19:14,159 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 07:33:52,000 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-30 07:33:52,017 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-30 07:36:03,280 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 07:36:03,312 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 07:38:07,244 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 07:38:07,260 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 07:38:34,957 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 07:38:34,973 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 09:19:55,055 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 09:19:55,071 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 09:23:37,989 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 09:23:38,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 09:24:27,803 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 09:24:27,818 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 10:46:18,511 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 10:46:18,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 10:51:55,615 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver pre-installed (since Microsoft Edge 44 is installed in your machine)
+2022-11-30 10:51:55,615 - io.github.bonigarcia.wdm.WebDriverManager -ERROR - There was an error managing msedgedriver pre-installed (MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0)
+io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:634)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:523)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at ui_automation.utilities.BrowserFactory.createInstance(BrowserFactory.java:84)
+	at ui_automation.step_definitions.Hooks.setUp(Hooks.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)
+	at cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:65)
+	at cucumber.runner.TestStep.run(TestStep.java:50)
+	at cucumber.runner.TestCase.run(TestCase.java:42)
+	at cucumber.runner.Runner.runPickle(Runner.java:50)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-11-30 10:56:20,895 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-30 10:56:20,915 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-01 12:53:51,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-01 12:53:51,825 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-01 20:43:54,650 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-01 20:43:54,670 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-01 20:45:35,358 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-01 20:45:35,383 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-01 20:47:14,280 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-01 20:47:14,299 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-01 20:47:55,629 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-01 20:47:55,645 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-01 20:48:15,743 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-01 20:48:15,759 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-02 17:45:27,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-02 17:45:27,635 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:41,928 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:41,943 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:52,240 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:52,256 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:53,457 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:53,465 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:54,498 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:54,504 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:55,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:55,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:56,523 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:56,528 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:57,525 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:57,533 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:58,506 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:58,514 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:27:59,490 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:27:59,498 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:00,579 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:00,579 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:01,617 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:01,617 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:02,619 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:02,627 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:03,607 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:03,615 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:04,589 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:04,597 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:05,628 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:05,636 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:06,698 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:06,698 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:07,790 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:07,799 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:08,762 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:08,770 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:09,806 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:09,806 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:10,826 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:10,834 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:11,910 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:11,925 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 13:28:12,962 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 13:28:12,962 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 15:59:58,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 15:59:58,181 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:03,101 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:03,101 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:04,120 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:04,128 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:05,076 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:05,076 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:06,053 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:06,057 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:07,012 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:07,016 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:07,896 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:07,900 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:08,839 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:08,844 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:09,800 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:09,804 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:10,826 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:10,830 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:11,758 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:11,763 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:12,657 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:12,657 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:13,634 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:13,641 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:14,609 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:14,614 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:15,567 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:15,571 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:16,497 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:16,497 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:17,487 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:17,492 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:18,449 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:18,453 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:19,441 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:19,446 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:20,470 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:20,475 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:21,522 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:21,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 16:00:22,489 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-12-03 16:00:22,489 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-03 18:48:40,235 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-03 18:48:40,259 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-12-03 18:48:40,970 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+2022-12-03 18:48:41,754 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2022-12-03 18:48:41,871 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-05 02:52:55,095 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-05 02:52:55,119 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:01:14,132 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:01:14,168 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:07:07,890 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:07:07,906 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:17:05,138 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:17:05,154 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:23:11,607 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:23:11,622 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:26:12,949 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:26:12,965 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:33:44,124 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:33:44,140 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:34:06,204 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:34:06,220 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 23:35:49,909 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2022-12-19 23:35:49,922 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-04 18:12:20,670 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-04 18:12:20,694 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-04 18:17:14,927 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-04 18:17:14,947 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-04 18:22:17,053 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-04 18:22:17,077 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-04 18:29:07,053 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-04 18:29:07,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-04 18:29:39,373 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-04 18:29:39,392 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-06 09:28:58,872 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-06 09:28:58,899 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-06 09:40:25,820 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-06 09:40:25,857 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-06 09:45:06,365 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-06 09:45:06,396 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-06 09:57:35,415 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-06 09:57:35,446 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe

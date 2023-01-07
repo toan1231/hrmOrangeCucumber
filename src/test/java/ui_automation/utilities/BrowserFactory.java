@@ -31,7 +31,8 @@ public class BrowserFactory {
                         options.addArguments("--ignore-ssl-errors=yes");
                         options.addArguments("--ignore-certificate-errors");
                         options.setExperimentalOption("prefs", chromePrefs);
-                        driver = new ChromeDriver(options);
+                       // driver = new ChromeDriver(options);
+                        driver=new ChromeDriver(options);
                     }
                     else {
                         switch (System.getProperty("browser")) {

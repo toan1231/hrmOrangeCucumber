@@ -3,6 +3,7 @@ Feature:
 #  @toan
 #  Scenario:
 #    Given I login with correct Credentials
+
   @toan
   Scenario Outline: hrmOrange login functionalities verification
 
@@ -14,9 +15,14 @@ Feature:
   |dfjdjfk|Bootcamp5#|Invalid credentials|
   |yoll-student|jdjfjdfkj|Invalid credentials|
   |kfjkdjfk|jjwhewhnr|Invalid credentials|
-    @toan
-  Scenario:
-  Given I login with correct Credentials
+
+
+
+
+
+
+
+
 
 
 
